@@ -1,4 +1,4 @@
-# LAB_sperimentazione_aerospaziale
+# Laboratorio di Sperimentazione Aerospaziale
 ## About
 This repository contains the project for "Laboratorio di Sperimentazione Aerospaziale" of Politecnico di Milano (2025), held by prof. Paolo Lunghi.  This laboratory was assigned as the final project for Politecnico di Milano BCs. in Aerospace Engineering. The authors of this project are Simone Benassi, Omayma Aouani, Chiara Adduci, Federica Beccaria and Federico Fiori.
 

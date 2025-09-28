@@ -1,0 +1,18 @@
+% Ponte intero, vincolo di pura torsione + incastro, braccio=11 cm + raggio
+% Massa appesa (compresi piatto e bullone)
+% 
+%  M [g]      mueps[-] eps*1e-6ù
+0		0
+108		1
+358		4
+588.5 		7
+1088.5 		13
+1588.5 		19
+2088.5 		26 
+3088.5	 	38
+2088.5 		26 
+1588.5 		19
+1088.5 		13
+588.5 		7
+358		4
+

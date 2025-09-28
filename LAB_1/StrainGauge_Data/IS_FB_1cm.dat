@@ -1,0 +1,12 @@
+% 4 estensimetri, vincolo di incastro, braccio = 1cm + raggio
+% Massa appesa (compresi piatto e bullone)
+% 
+%  M [g]      mueps[-] eps*1e-6
+0		0
+108 		0	
+358  		0
+608 		0
+1108 		1
+1608 		1
+2108 		1
+3108 		1

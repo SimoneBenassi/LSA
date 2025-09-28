@@ -1,0 +1,12 @@
+% 1 estensimetro, vincolo di pura torsione + incastro, braccio=14 cm + raggio
+% Massa appesa (compresi piatto e bullone)
+%
+%  M [g]      mueps[-] eps*1e-6
+0		0
+108 		1
+358  		4
+608 		7
+1108 		15
+1608 		23
+2108 		30
+3108 		47
